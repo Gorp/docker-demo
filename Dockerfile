@@ -2,4 +2,4 @@ FROM laradock/php-fpm:2.0-72
 
 MAINTAINER Dmytro Gorpynenko <digorp@gmail.com>
 
-CMD ["echo", "Hello!"]
+CMD ["echo", "Hello,", "baby!"]
